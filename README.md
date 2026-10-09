@@ -10,6 +10,8 @@ GitHub toont de bestanden hieronder in elke openbare repository van de organisat
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Hoe je een fout meldt of een wijziging voorstelt |
 | [`SECURITY.md`](SECURITY.md) | Hoe je een kwetsbaarheid vertrouwelijk meldt |
 
+De tekst op de [organisatiepagina](https://github.com/NederlandseDigitaleDienst) staat in [`profile/README.md`](profile/README.md).
+
 Een `LICENSE` erft een repository niet: GitHub gebruikt het licentiebestand hier alleen voor deze repository zelf. Elke repository heeft dus een eigen `LICENSE` nodig.
 
 ## Licentie
