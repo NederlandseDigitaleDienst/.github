@@ -39,7 +39,7 @@ Samen met makers van andere overheidsorganisaties werken we aan systemen waar bu
     <td width="33%" valign="top">
       <h3><a href="https://regelrecht.rijks.app">RegelRecht</a></h3>
       <p>Onderzoekt of een wet als uitvoerbare code geschreven kan worden, zodat elke organisatie dezelfde wet op dezelfde manier toepast.</p>
-      <p><a href="https://github.com/MinBZK/regelrecht">Code bij MinBZK</a></p>
+      <p><a href="https://github.com/NederlandseDigitaleDienst/regelrecht">Ga naar de repository</a></p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://docs.fundament.projects.digilab.network/">Fundament</a></h3>
