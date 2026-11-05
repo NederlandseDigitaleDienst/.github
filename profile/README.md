@@ -11,7 +11,7 @@ Meer over wie we zijn lees je op [digitaledienst.overheid.nl](https://digitaledi
     <td width="33%" valign="top">
       <h3><a href="https://github.com/NederlandseDigitaleDienst/design-system">NLDD Designsysteem</a></h3>
       <p>Web components in de Rijkshuisstijl, met toegankelijkheid ingebouwd. Je installeert ze als <code>@nldd/design-system</code>.</p>
-      <p><a href="https://nederlandsedigitaledienst.github.io/design-system/">Documentatie</a></p>
+      <p><a href="https://design.digitaledienst.overheid.nl/">Website</a> · <a href="https://nederlandsedigitaledienst.github.io/design-system/">Documentatie</a></p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/NederlandseDigitaleDienst/NeRDS">NeRDS</a></h3>
